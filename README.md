@@ -42,7 +42,7 @@
 
 ## 👀 Contador de visitas  
 
-<p align="center" alt="Visitor Count" width="350vw" heigth="350vh">
+<p align="center" alt="Visitor Count" width="500" heigth="100">
   <img src="https://komarev.com/ghpvc/?username=JDamianDelgado&color=green" alt="Visitor Count">
 </p>
 
