@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Joaquín D. Delgado  
 
 💻 Apasionado por la programación, especialmente en el backend.  
-📍 Desde Argentina, creando soluciones con código.  
+📍 Desde Argentina, Bs as, creando soluciones con código.  
 
 ## 🚀 Tecnologías con las que trabajo  
 - 🏗️ **Backend:** NestJS, TypeScript, SQL, PostgreSQL, MongoDB  
