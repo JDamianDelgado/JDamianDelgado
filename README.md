@@ -8,7 +8,7 @@
 - 🌐 **Frontend:** Next.js, React, HTML, CSS, JavaScript  
 - 📜 **Documentación & APIs:** Swagger  
 - 🔧 **Otras herramientas:** Git, Docker, Prisma, Express
-- 
+  
 ## 📊 Mis estadísticas en GitHub  
 ![Joaquín's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JDamianDelgado&show_icons=true&theme=radical)  
 
