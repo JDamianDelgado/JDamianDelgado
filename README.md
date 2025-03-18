@@ -16,11 +16,11 @@
 ## 📊 Mis estadísticas en GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JDamianDelgado&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JDamianDelgado&show_icons=true&theme=radical" alt="GitHub Stats" width="300" heigth="300">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDamianDelgado&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDamianDelgado&layout=compact&theme=radical" alt="Top Languages" width="300" heigth="300">
 </p>
 
 ## 📫 ¡Contacto!  
@@ -37,7 +37,7 @@
 ## 👀 Contador de visitas  
 
 <p align="center" alt="Visitor Count" >
-  <img src="https://komarev.com/ghpvc/?username=JDamianDelgado&color=green" alt="Visitor Count" width="300" heigth="180">
+  <img src="https://komarev.com/ghpvc/?username=JDamianDelgado&color=green" alt="Visitor Count" width="250" heigth="150">
 </p>
 
 ---
