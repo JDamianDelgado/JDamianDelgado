@@ -11,6 +11,14 @@
 - 📜 **Documentación & APIs:** Swagger  
 - 🔧 **Otras herramientas:** Git, Docker, Prisma, Express  
 
+
+## 🌟 Mi Actividad en GitHub
+
+<p align="center">
+  <img src="https://skyline.github.com/JDamianDelgado/2024.svg" alt="GitHub Skyline 3D">
+</p>
+
+
 ## 📊 Mis estadísticas en GitHub  
 
 <p align="center">
@@ -34,7 +42,7 @@
 
 ## 👀 Contador de visitas  
 
-<p align="center" alt="Visitor Count" width="200">
+<p align="center" alt="Visitor Count" width="350">
   <img src="https://komarev.com/ghpvc/?username=JDamianDelgado&color=green" alt="Visitor Count">
 </p>
 
