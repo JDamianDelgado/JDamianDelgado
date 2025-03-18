@@ -12,12 +12,6 @@
 - 🔧 **Otras herramientas:** Git, Docker, Prisma, Express  
 
 
-## 🌟 Mi Actividad en GitHub
-
-<p align="center">
-  <img src="https://skyline.github.com/JDamianDelgado/2024.svg" alt="GitHub Skyline 3D">
-</p>
-
 
 ## 📊 Mis estadísticas en GitHub  
 
@@ -32,11 +26,11 @@
 ## 📫 ¡Contacto!  
 
 <p align="center">
-  <a href="mailto:joakodelgado2013@gmail.com">
+  <a href="mailto:joakodelgado2013@gmail.com" width="300" heigth="200">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/joaquin-d-delgado-312125351/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/joaquin-d-delgado-312125351/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="300" heigth="200">
   </a>
 </p>
 
