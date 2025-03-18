@@ -26,18 +26,18 @@
 ## 📫 ¡Contacto!  
 
 <p align="center">
-  <a href="mailto:joakodelgado2013@gmail.com" width="300" heigth="200">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:joakodelgado2013@gmail.com" >
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="200" heigth="150">
   </a>
   <a href="https://www.linkedin.com/in/joaquin-d-delgado-312125351/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="300" heigth="200">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="200" heigth="150">
   </a>
 </p>
 
 ## 👀 Contador de visitas  
 
-<p align="center" alt="Visitor Count" width="500" heigth="100">
-  <img src="https://komarev.com/ghpvc/?username=JDamianDelgado&color=green" alt="Visitor Count">
+<p align="center" alt="Visitor Count" >
+  <img src="https://komarev.com/ghpvc/?username=JDamianDelgado&color=green" alt="Visitor Count" width="300" heigth="180">
 </p>
 
 ---
