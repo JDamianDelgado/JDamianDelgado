@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola! Soy Joaquín D. Delgado</h1>
 
-<p align="center">
+<p>
 💻 Apasionado por la programación, especialmente en el backend. <br>
 📍 Desde Argentina, Bs As, creando soluciones con código.
 </p>
@@ -34,7 +34,7 @@
 
 ## 👀 Contador de visitas  
 
-<p align="center">
+<p align="center" alt="Visitor Count" width="200">
   <img src="https://komarev.com/ghpvc/?username=JDamianDelgado&color=green" alt="Visitor Count">
 </p>
 
