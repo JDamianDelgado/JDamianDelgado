@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Joaquín D. Delgado  
 
-<!--
-**JDamianDelgado/JDamianDelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apasionado por la programación, especialmente en el backend.  
+📍 Desde Argentina, creando soluciones con código.  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías con las que trabajo  
+- 🏗️ **Backend:** NestJS, TypeScript, SQL, PostgreSQL, MongoDB  
+- 🌐 **Frontend:** Next.js, React, HTML, CSS, JavaScript  
+- 📜 **Documentación & APIs:** Swagger  
+- 🔧 **Otras herramientas:** Git, Docker, Prisma, Express  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 ¡Conectemos!  
+📩 **Email:** [joakodelgado2013@gmail.com](mailto:joakodelgado2013@gmail.com)  
+🔗 **LinkedIn:** [Joaquín D. Delgado](https://www.linkedin.com/in/joaquin-d-delgado-312125351/)  
+
+Si quieres hablar sobre código, proyectos o simplemente compartir ideas, no dudes en escribirme. 😃  
