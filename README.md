@@ -29,7 +29,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JDamianDelgado&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-## 📫 ¡Conectemos!  
+## 📫 ¡Contacto!  
 
 <p align="center">
   <a href="mailto:joakodelgado2013@gmail.com">
