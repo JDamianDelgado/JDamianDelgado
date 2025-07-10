@@ -7,9 +7,9 @@
 
 ## 🚀 Tecnologías con las que trabajo  
 - 🏗️ **Backend:** NestJS, TypeScript, SQL, PostgreSQL, MongoDB  
-- 🌐 **Frontend:** Next.js, React, HTML, CSS, JavaScript  
+- 🌐 **Frontend:** Next.js, React, HTML, CSS, JavaScript, Tailwind
 - 📜 **Documentación & APIs:** Swagger  
-- 🔧 **Otras herramientas:** Git, Docker, Prisma, Express  
+- 🔧 **Otras herramientas:** Git, Docker, Prisma, Express, Jwt, Nodemailer,  
 
 
 
