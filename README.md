@@ -16,7 +16,7 @@
 ## 📊 Mis estadísticas en GitHub  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JDamianDelgado&show_icons=true&theme=radical&count_private=true&token=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" alt="GitHub Stats" width="400" height="400">
+<img src="https://github-readme-stats.vercel.app/api?username=JDamianDelgado&show_icons=true&theme=radical" alt="GitHub Stats" width="400" height="400">
 </p>
 
 <p align="center">
