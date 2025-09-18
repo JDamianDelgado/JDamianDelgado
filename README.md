@@ -26,7 +26,7 @@
 ## 📫 ¡Contacto!  
 
 <p align="center">
-  <a href="mailto:joakodelgado2013@gmail.com" >
+  <a href="mailto:joaquindamian.dev@gmail.com" >
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="120" heigth="100" style="border-radius: 50%;">
   </a>
   <a href="https://www.linkedin.com/in/joaquin-d-delgado-312125351/" >
